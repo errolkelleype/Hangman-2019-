@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\ASUS\Desktop\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\ASUS\Desktop\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\ASUS\Desktop\hangman\hangman\bin\Debug\hangman.xml
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\hangman.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\hangman.xml
+C:\Users\ASUS\Desktop\hangman\hangman\obj\Debug\hangman.pdb
